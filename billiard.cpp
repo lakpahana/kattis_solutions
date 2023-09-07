@@ -18,6 +18,15 @@ pair<double, double> calculateLaunchParameters(int a, int b, int s, int m, int n
 int main() {
     int a, b, s, m, n;
 
+    //new int
+    int *p = new int;
+
+
+
+
+
+
+
     while (true) {
         cin >> a >> b >> s >> m >> n;
 
